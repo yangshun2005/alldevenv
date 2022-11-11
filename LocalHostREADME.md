@@ -1,11 +1,17 @@
+
+### `全语言k8s`开发环境机器`ISO`下载地址：
+
+` http://dl.chinaase.com/softwarepackage/virtualbox/u20-devMachine-pubilc.iso `
+
+### 主要程序包目录
 `develop env just is develop ; mount is mount`
 `/opt/dl`
 
-### install develop language info
+### develop language info
 
 `java :`
 
-- [x] orcal jdk-v1.9.0_301
+- [x] orcal jdk-v1.8.0_301
 - [x] maven_v3.6.3
 - [x] gradle_7.3.2
 - [x] grooy_3.0.9
@@ -32,7 +38,7 @@
 - [x] `zsh + p10k`
 - [ ] `share path: /opt/sf`
 - [x] `kind + kind-k8s-image:v1.19+ ~ v1.24+`
-- [x] `containerd + ctr`
+- [x] `containerd + ctr 与docker并行跑`
 - [x] `dockerd docker-cli docker-compose`
 - [x] `runc`
 - [x] `cni`
@@ -54,7 +60,7 @@
 - [x] `frps ServerAtAliyungitlab`
 - [x] `frpc ServerAtAliyungitlab`
 - [x] `trojan  + proxychains4`
-- [ ] `OICD`
+- [ ] `OICD :  openshift`
 - [x] `vagrant-2.3 + virtualbox-6.1.38`
 
 - [x] `vscode + plugin NUM 52`
