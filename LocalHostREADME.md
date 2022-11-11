@@ -3,6 +3,11 @@
 
 ` http://dl.chinaase.com/softwarepackage/virtualbox/u20-devMachine-pubilc.iso `
 
+```
+Tips:
+    base on ubuntu20.4-LTS
+```
+
 ### 主要程序包目录
 `develop env just is develop ; mount is mount`
 `/opt/dl`
