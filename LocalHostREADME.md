@@ -6,7 +6,8 @@
 
 ```
 Tips:
-    base on ubuntu20.4-LTS   
+    1. base on ubuntu20.4-LTS   
+    2. usr/pwd will/willwill
 ```
 
 ### 主要程序包目录
