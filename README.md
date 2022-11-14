@@ -8,4 +8,4 @@
 `all develop env on linux : jdk\golang\py\js\anaconda\docker\containerd\k8s\c++\helm\kind\runc\calico\cilium\shope\terraform\skaffold\argo\vagrant\virtualbox\vscode\ansible\kubectl\tkn\`
 
 
-
+[全环境明细](./LocalHostREADME.md)
