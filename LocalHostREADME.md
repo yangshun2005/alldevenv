@@ -1,8 +1,7 @@
 
-### `全语言k8s`开发环境机器`ISO`下载地址：
+### `全语言k8s`开发环境机器`ISO`下载地址
 
 ` http://dl.chinaase.com/softwarepackage/virtualbox/u20-devMachine-pubilc.iso `
-
 
 ```
 Tips:
@@ -11,6 +10,7 @@ Tips:
 ```
 
 ### 主要程序包目录
+
 `develop env just is develop ; mount is mount`
 `/opt/dl`
 
@@ -39,6 +39,17 @@ Tips:
 
 - [x] `nvm + nodejs + typescript`
 
+- [x] `cpp`
+
+- [x] `rust`
+
+```
+$HOME/.cargo/bin
+source "$HOME/.cargo/env"
+
+```
+
+- [x] `protoc3`
 
 ### developer env info
 
@@ -59,9 +70,13 @@ Tips:
 - [x] `terraform`
 - [ ] `cdktf-go`
 - [x] `ansible in  conda python`
+- [ ] `puppet`
+- [x] `saltstack`
 - [x] `kubectl`
 - [x] `helm`
 - [x] `cilium`
+- [x] `kubectl krew`
+- [x] `kubectl karmada`
 - [x] `calico-cil by k8s calicoctl-pod`
 - [x] `skaffold`
 - [x] `frps ServerAtAliyungitlab`
