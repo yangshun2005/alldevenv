@@ -3,7 +3,6 @@
 
 ` http://dl.chinaase.com/softwarepackage/virtualbox/u20-devMachine-pubilc.iso `
 
-
 ```
 Tips:
     1. base on ubuntu20.4-LTS   
@@ -36,7 +35,7 @@ Tips:
 - [x] `c++`
 - [x] `cmake`
 
-`nodejs typescript :`
+`nodejs 、 typescript :`
 
 - [x] `nvm + nodejs + typescript`
 
@@ -79,6 +78,7 @@ source "$HOME/.cargo/env"
 - [x] `kubectl krew`
 - [x] `kubectl karmada`
 - [x] `calico-cil by k8s calicoctl-pod`
+- [x] `calicod`
 - [x] `skaffold`
 - [x] `frps ServerAtAliyungitlab`
 - [x] `frpc ServerAtAliyungitlab`
@@ -87,3 +87,5 @@ source "$HOME/.cargo/env"
 - [x] `vagrant-2.3 + virtualbox-6.1.38`
 
 - [x] `vscode + plugin NUM 52`
+- [ ] `kubevela`
+- [ ] `VM openstack`
