@@ -89,3 +89,5 @@ source "$HOME/.cargo/env"
 - [x] `vscode + plugin NUM 52`
 - [ ] `kubevela`
 - [ ] `VM openstack`
+- [ ] `EBPF lib for ubuntu-20.04  【BCC tools】不适配`
+- [x] `monkey study: chaosmonkey ||  kube-monkey || chaosblade部署二进制 /opt/dl`
