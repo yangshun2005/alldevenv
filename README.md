@@ -4,6 +4,8 @@
 
  develop machine info ISO
 
+`vagrant 资源包已更新 `  vagrant addr : 2095686947/MyU2004DevMachine 
+
 ```
  包括但不限于：
     开发使用：java、nodejs（ts）、golang、python3
