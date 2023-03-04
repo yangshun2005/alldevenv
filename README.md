@@ -4,7 +4,8 @@
 
  develop machine info ISO
 
-`vagrant 资源包已更新 `  vagrant addr : 2095686947/MyU2004DevMachine 
+`vagrant 资源包已更新 ` 
+ vagrant addr : https://app.vagrantup.com/2095686947/boxes/MyU2004DevMachine 
 
 ```
  包括但不限于：
